@@ -13,7 +13,6 @@
 
 
 
-
 ## Sobre o Projeto
   <h3 align="center">O que é Hateos e JSON HAL</h3>
 
