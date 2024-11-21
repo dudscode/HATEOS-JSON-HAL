@@ -30,7 +30,7 @@
 
 ### Remotes
 
-Saiba mais sobre os frameworks/libs que usamos.
+Saiba mais sobre os frameworks que usamos.
 
 * [![Angular][Angular.io]][Angular-url]
 * [![Spring][Java]][Java-url]
