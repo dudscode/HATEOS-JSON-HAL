@@ -1,0 +1,15 @@
+section {
+    color: white;
+    font-family: roboto;
+    gap: 20px;
+    display: flex;
+    justify-content: center;
+    mat-card {
+        width: 260px;
+        mat-card-title {
+            text-align: center;
+        }
+
+    }
+
+}

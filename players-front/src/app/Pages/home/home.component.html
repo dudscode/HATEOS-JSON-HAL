@@ -1,0 +1,14 @@
+<main>
+    <app-header></app-header>
+    <section>
+        <button mat-raised-button color="primary" (click)="searchPlayer()" >Buscar Jogadores</button>
+    </section>
+    <section *ngIf="showPlayers">
+        <app-card-players [players]="players"></app-card-players>
+    </section>
+    <section *ngIf="showLoadingPlayers">
+        <mat-spinner ></mat-spinner>
+    </section>
+    
+
+</main>
